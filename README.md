@@ -1,2 +1,2 @@
 # Landing-Page
-Class mini Project
+Mini Project (design and code provided to class)
